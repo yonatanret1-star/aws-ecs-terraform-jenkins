@@ -1,4 +1,4 @@
-# DevOps Code Challenge
+# AWS ECS DevOps CI/CD Pipeline
 
 ## Overview
 
